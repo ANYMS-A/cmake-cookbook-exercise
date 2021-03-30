@@ -1,0 +1,3 @@
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-02/cxx-example/ninja_build/CMakeFiles/rebuild_cache.dir
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-02/cxx-example/ninja_build/CMakeFiles/edit_cache.dir
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-02/cxx-example/ninja_build/CMakeFiles/hello-world.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/crissallan/CLionProjects/my_cmake_cookbook_exercise/Chapter01/recipe-01/cxx-example/hello-world.cpp
+cstdlib
+-
+iostream
+-
+string
+-
+

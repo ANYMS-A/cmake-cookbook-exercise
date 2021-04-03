@@ -1,0 +1,4 @@
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-05/cxx-example/build_01/CMakeFiles/rebuild_cache.dir
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-05/cxx-example/build_01/CMakeFiles/edit_cache.dir
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-05/cxx-example/build_01/CMakeFiles/hello-world.dir
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-05/cxx-example/build_01/CMakeFiles/message.dir

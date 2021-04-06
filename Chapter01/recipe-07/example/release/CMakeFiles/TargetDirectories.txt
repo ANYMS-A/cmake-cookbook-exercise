@@ -1,0 +1,2 @@
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-07/example/release/CMakeFiles/rebuild_cache.dir
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-07/example/release/CMakeFiles/edit_cache.dir

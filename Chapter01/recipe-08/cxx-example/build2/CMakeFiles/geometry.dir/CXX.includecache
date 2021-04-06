@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_circle.cpp
+geometry_circle.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_circle.hpp
+cmath
+-
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_circle.hpp
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_polygon.cpp
+geometry_polygon.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_polygon.hpp
+cmath
+-
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_polygon.hpp
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_rhombus.cpp
+geometry_rhombus.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_rhombus.hpp
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_rhombus.hpp
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_square.cpp
+geometry_square.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_square.hpp
+cmath
+-
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-08/cxx-example/geometry_square.hpp
+

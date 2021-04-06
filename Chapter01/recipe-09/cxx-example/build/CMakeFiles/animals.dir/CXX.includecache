@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Animal.cpp
+Animal.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Animal.hpp
+string
+-
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Animal.hpp
+string
+-
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Cat.cpp
+Cat.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Cat.hpp
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Cat.hpp
+Animal.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Animal.hpp
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Dog.cpp
+Dog.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Dog.hpp
+
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Dog.hpp
+Animal.hpp
+/Users/crissallan/CLionProjects/cmake-cookbook/chapter-01/recipe-09/cxx-example/Animal.hpp
+
